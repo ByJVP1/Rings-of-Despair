@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "StandExe Laugh"
+		},
+		{
+			"offsets": [
+				-140,
+				40
+			],
+			"loop": true,
+			"fps": 13,
+			"anim": "idle",
+			"indices": [],
+			"name": "StandExe Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				9,
+				45
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "StandExe Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-67,
+				24
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "StandExe Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-100,
+				-66
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "StandExe Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				82
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "StandExe UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/StandExe",
+	"position": [
+		150,
+		150
+	],
+	"healthicon": "exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		0,
+		115
+	],
+	"camera_position": [
+		-60,
+		-15
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
