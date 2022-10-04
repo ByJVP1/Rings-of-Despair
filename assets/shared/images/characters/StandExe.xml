@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="StandExe.png">
+<SubTexture name="StandExe Down0000" x="0" y="0" width="483" height="465" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Down0001" x="503" y="0" width="483" height="475" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Down0002" x="1001" y="9" width="480" height="474" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Down0003" x="1514" y="9" width="478" height="474" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Idle0000" x="2025" y="0" width="335" height="581" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Idle0001" x="2385" y="0" width="333" height="581" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Idle0002" x="2752" y="6" width="335" height="579" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Idle0003" x="3113" y="15" width="335" height="578" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Idle0004" x="7" y="464" width="322" height="588" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Laugh0000" x="376" y="497" width="451" height="662" frameX="0" frameY="11" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Laugh0001" x="844" y="496" width="446" height="652" frameX="0" frameY="9" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Laugh0002" x="1320" y="505" width="452" height="644" frameX="0" frameY="9" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Laugh0003" x="0" y="1181" width="457" height="639" frameX="0" frameY="10" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Laugh0004" x="480" y="1176" width="464" height="632" frameX="0" frameY="2" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Left0000" x="1795" y="591" width="472" height="589" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Left0001" x="2268" y="586" width="461" height="590" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Left0002" x="2727" y="598" width="450" height="592" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Left0003" x="3178" y="599" width="437" height="596" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Right0000" x="979" y="1244" width="619" height="573" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Right0001" x="1608" y="1251" width="619" height="567" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Right0002" x="2233" y="1265" width="619" height="571" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe Right0003" x="2858" y="1272" width="619" height="571" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe UP0000" x="0" y="1831" width="520" height="625" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe UP0001" x="535" y="1831" width="505" height="626" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe UP0002" x="1064" y="1832" width="499" height="622" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+<SubTexture name="StandExe UP0003" x="1596" y="1835" width="507" height="619" frameX="0" frameY="0" frameWidth="804" frameHeight="804" />
+</TextureAtlas>
